@@ -38,6 +38,7 @@ export const ComponentAreaInput = styled.div`
   justify-content: space-between;
   align-items: center;
   margin: 1rem 0;
+  gap: 1rem;
 
   @media (max-width: 768px) {
     
