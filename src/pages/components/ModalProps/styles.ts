@@ -38,4 +38,11 @@ export const ComponentAreaInput = styled.div`
   justify-content: space-between;
   align-items: center;
   margin: 1rem 0;
+
+  @media (max-width: 768px) {
+    
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+  }
 `;
