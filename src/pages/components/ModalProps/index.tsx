@@ -204,6 +204,7 @@ export const ModalProps = ({
             <AccordionDetails>
               <FormControl>
                 <FormLabel>Selecione o grafico</FormLabel>
+              
                 <RadioGroup>
                   <FormControlLabel
                     control={
